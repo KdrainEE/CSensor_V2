@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=-15V Pin=U3-0
+Change Component Footprint: Designator=U2 Old Footprint=TO-220 (heatsink) New Footprint=TO-220
+Change Component Footprint: Designator=U3 Old Footprint=TO-220 (heatsink) New Footprint=TO-220
+Added Room: Name=CurrentS_2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U2-0
+Removed Pin From Net: NetName=-15V Pin=U3-0
+Change Component Description : Designator=U3 Old Description=Negative linear voltage regulator (1 A) New Description=
+Change Component Description : Designator=U2 Old Description=Positive linear voltage regulator (1 A) New Description=1A linear positive voltage regulator

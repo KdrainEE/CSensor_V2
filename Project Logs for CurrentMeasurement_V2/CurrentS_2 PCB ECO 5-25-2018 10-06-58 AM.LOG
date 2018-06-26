@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=C3 Old Footprint=0805 New Footprint=1210
+Change Component Footprint: Designator=C5 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C2 Old Footprint=CAP.2/.5 New Footprint=1825
+Change Component Footprint: Designator=C4 Old Footprint=CAP.2/.5 New Footprint=1825
+Change Component Footprint: Designator=C6 Old Footprint=CAP.2/.5 New Footprint=1825
+Added Component: Designator=C7(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class II"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class II"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class II"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class II"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+15V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC11_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=-15V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC12_2 Pin=C10-2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=+9V
+Change Net Name : Old Net Name=NetC12_2 New Net Name=-9V
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=CurrentS_2 Member=Component C7 CAP1
+Added Member To Class: ClassName=CurrentS_2 Member=Component C8 CAP1
+Added Member To Class: ClassName=CurrentS_2 Member=Component C9 CAP1
+Added Member To Class: ClassName=CurrentS_2 Member=Component C10 CAP1

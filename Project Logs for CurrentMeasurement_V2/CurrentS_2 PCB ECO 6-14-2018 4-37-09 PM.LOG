@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U12-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U22-1
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U32-1
+Added Net: Name=NetR37_1
+Added Room: Name=CurrentS_2

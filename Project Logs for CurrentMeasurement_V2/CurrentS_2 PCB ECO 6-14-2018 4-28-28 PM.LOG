@@ -1,0 +1,95 @@
+Change Component Footprint: Designator=C1 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C3 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C5 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C7 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C8 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C9 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C10 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C11 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C12 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C13 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C14 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C15 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C16 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C21 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C22 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C23 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C24 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C25 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C26 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C31 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C32 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C33 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C34 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C35 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C36 Old Footprint=1206 New Footprint=1210
+Change Component Footprint: Designator=C2 Old Footprint=CAP.2/.5 New Footprint=1825
+Change Component Footprint: Designator=C4 Old Footprint=CAP.2/.5 New Footprint=1825
+Change Component Footprint: Designator=C6 Old Footprint=CAP.2/.5 New Footprint=1825
+Change Component Footprint: Designator=U2 Old Footprint=TO-220 New Footprint=TO-220 (heatsink)
+Change Component Footprint: Designator=U3 Old Footprint=TO-220 New Footprint=TO-220 (heatsink)
+Change Component Comment : Designator=U2 Old Comment=7809 New Comment=78XX
+Change Component Comment : Designator=U3 Old Comment=7909 New Comment=79XX
+Change Component Description : Designator=U2 Old Description= New Description=Positive linear voltage regulator (1 A)
+Change component parameters: Designator = "R11"; Footprint = "0805"; UniqueID = "\MPJKOATB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class II"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "0805"; UniqueID = "\TPXTDWFI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class II"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31"; Footprint = "0805"; UniqueID = "\FLCNEVSB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class II"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "W11"; Footprint = "VR5"; UniqueID = "\PRYYWKQO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class II"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "W21"; Footprint = "VR5"; UniqueID = "\VNLEGXYT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class II"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "W31"; Footprint = "VR5"; UniqueID = "\ASEEKUVW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class I"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class II"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(0, 120, 108) New Net Color=Default
+Change Net Color : Old Net Color=RGB(63, 69, 17) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=Maroon New Net Color=Default
+Added Room: Name=CurrentS_2

@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=U12 Old DesignItemId=5-1814400-1 New DesignItemId=BNC Elbow male
+Change Component DesignItemId : Designator=U22 Old DesignItemId=5-1814400-1 New DesignItemId=BNC Elbow male
+Change Component DesignItemId : Designator=U32 Old DesignItemId=5-1814400-1 New DesignItemId=BNC Elbow male
+Change Component Comment : Designator=U12 Old Comment=BNC jack New Comment=BNC Elbow male
+Change Component Comment : Designator=U22 Old Comment=BNC jack New Comment=BNC Elbow male
+Change Component Comment : Designator=U32 Old Comment=BNC jack New Comment=BNC Elbow male
+Change Component Library : Designator=U12 Old Library=CONN BNC JACK RA 50 OHM PCB.SchLib New Library=ERL_Components.IntLib
+Change Component Library : Designator=U22 Old Library=CONN BNC JACK RA 50 OHM PCB.SchLib New Library=ERL_Components.IntLib
+Change Component Library : Designator=U32 Old Library=CONN BNC JACK RA 50 OHM PCB.SchLib New Library=ERL_Components.IntLib
